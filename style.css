@@ -1,0 +1,50 @@
+.logo1{
+    background-color: black;
+    height: 310px;
+    width: 100%;
+}
+
+.foto1{
+    margin-left: 450px;
+}
+.coxa1{
+    background-color: #c80000;
+    font-size: 25px;
+    padding: 10px;
+}
+.coxa2{  
+    background-color:#003ec8;
+    font-size: 25px;
+    padding: 10px;
+}
+.escrita1{
+    color: rgb(0, 102, 255);
+    font-size: 50px;
+    
+}
+.escrita2{
+    border-left-color:black ;
+}
+.escrita3{
+    color: rgb(0, 102, 255);
+    font-size: 50px;
+}
+.foto3{
+    
+}
+.escrita4{
+    border-left-color: black;
+    font-size: 20px;
+}
+.escrita5{
+    border-left-color: black;
+    font-size: 20px;
+}
+.ultimo{
+    margin-left: 450px;
+}
+.ultimo1{
+    background-color: black;
+    height: 310px;
+    width: 100%;
+}
